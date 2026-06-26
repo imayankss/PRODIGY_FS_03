@@ -228,19 +228,3 @@ Panjabi:
 
 ![Category-wise-panjabi-product](https://github.com/user-attachments/assets/c4fd2738-d94e-49e1-8f5d-3a8274903fb7)
 
-Pants:
-
-![Category-Wise-Pants](https://github.com/user-attachments/assets/dc0bad70-e341-4b6d-ab8b-c18ab67421db)
-
-Accessories:
-
-![Category-wise-accessories](https://github.com/user-attachments/assets/0b5fa8f7-9454-4dd6-a5cb-54aaca113aa2)
-
-No Product Found for This Category:
-
-![No-Product-with-this-category](https://github.com/user-attachments/assets/99781cda-dd1e-413e-bfd3-9fbbbff66491)
-
-**Forgot Password:**
-![Screenshot from 2024-10-17 21-40-50](https://github.com/user-attachments/assets/72b3f8ed-f084-4b22-a2dc-41988e676196)
-
-![Screenshot from 2024-10-17 21-40-59](https://github.com/user-attachments/assets/8b8c1758-723d-4c82-9f3c-e4128d6c2c8d)
