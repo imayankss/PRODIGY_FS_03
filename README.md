@@ -210,21 +210,4 @@ _Category Wise Product Filtering_
 
 ![Category-All-Product-with-Discount](https://github.com/user-attachments/assets/18d5393b-d3cf-46cd-9f45-98b592e07744)
 
-**Filter Category wise products**
-
-Casual Shirt:
-
-![Category-wise-casual-Shirts](https://github.com/user-attachments/assets/17457da9-e1cd-47b6-9df7-cbd9efc92f9e)
-
-KnitWear:
-
-![Category-wise-knit-wear](https://github.com/user-attachments/assets/eb3b9026-4bc2-4592-8d92-028dc96d2a53)
-
-Blazer :
-
-![Category-wise-blazer](https://github.com/user-attachments/assets/ea3dbe35-1946-4c2b-b016-a3f33ad579aa)
-
-Panjabi:
-
-![Category-wise-panjabi-product](https://github.com/user-attachments/assets/c4fd2738-d94e-49e1-8f5d-3a8274903fb7)
 
