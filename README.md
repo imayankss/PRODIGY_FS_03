@@ -198,16 +198,6 @@ _**Note : Project is Not Fully Completed yet, Still More Modules are in under de
 
 
 
-**Product Category Filter**
-
-_Category Wise Product Filtering_
-
-**All Category**
-
-![All_category-List](https://github.com/user-attachments/assets/91a9937b-10d2-44b5-9b78-b28725b64deb)
-
-**All Products - All Categories Product**
-
-![Category-All-Product-with-Discount](https://github.com/user-attachments/assets/18d5393b-d3cf-46cd-9f45-98b592e07744)
+)
 
 
