@@ -186,8 +186,7 @@ _**Note : Project is Not Fully Completed yet, Still More Modules are in under de
 ![Single-Product-Details-Page](https://github.com/user-attachments/assets/96781427-3acb-4a36-bf8c-69d6135f5912)
 
 ![Single-product-details-page-02](https://github.com/user-attachments/assets/11ca6bca-e2fd-46fd-aaac-3f641d9d9bff)
-
-![Details-Product-Blazer](https://github.com/user-attachments/
+(https://github.com/user-attachments/
 
 
 
