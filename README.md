@@ -183,7 +183,7 @@ _**Note : Project is Not Fully Completed yet, Still More Modules are in under de
 
 **Product Details**
 
-![Single-Product-Details-Page](https://github.com/user-att\
+![Single-Product-Detai
 
 
 
